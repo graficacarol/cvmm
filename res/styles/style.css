@@ -12,7 +12,6 @@ body {
     margin: 30px auto 10px auto;
     width: 300px;
     height: 300px;
-    box-shadow: 0px 0px 15px 2px black;
     animation: zoom-in-zoom-out 1s ease 1 normal forwards;
 }
 
